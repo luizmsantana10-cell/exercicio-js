@@ -1,0 +1,5 @@
+/*
+Elabore um o algoritmo que possa entrar com nome do produto
+e valor da compra e imprima o nome do produto e o valor
+da venda.
+*/
